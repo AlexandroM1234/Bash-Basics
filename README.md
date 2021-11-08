@@ -31,3 +31,11 @@
 ![image](https://user-images.githubusercontent.com/59548630/140810207-5c589318-e737-4c94-9558-1b9a79ccf077.png)
 
 - With all the changes it looks something like this
+
+## Task 3
+
+- For the alternating lines I set the value $FIRST as First Line in the .zshenv then in the .zshrc in the precmd hook I printed the value and then changed it depending on what it isn't.
+  ![image](https://user-images.githubusercontent.com/59548630/140826990-25f38cd2-4d61-4746-8cf8-62ba292543c0.png)
+
+- and the output of that looks like this
+  ![image](https://user-images.githubusercontent.com/59548630/140827076-497c9cc8-bc81-475e-a6b6-c6a704b2d76c.png)
