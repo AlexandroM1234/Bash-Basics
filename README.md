@@ -39,3 +39,14 @@
 
 - and the output of that looks like this
   ![image](https://user-images.githubusercontent.com/59548630/140827076-497c9cc8-bc81-475e-a6b6-c6a704b2d76c.png)
+
+# Task 4 and 5
+
+- To make the hello script on the desk top you first have to change directories to your desktop like so
+  ![image](https://user-images.githubusercontent.com/59548630/140996792-901f4e0f-942c-40ed-bcd9-128662f4c222.png)
+- after that you run the command touch hello to make the file and after that you can follow the comments in the hello file in this repo
+- Then to add your desktops path to the enviroment variable $PATH you can add it into the .zrc along with the folder with spaces like so
+  ![image](https://user-images.githubusercontent.com/59548630/140997101-db15cc25-2ed8-4023-a404-078d26decbf0.png)
+- note we are just changing the value of $PATH with the path of the directory we want to add followed by the rest of $PATH
+- and if we want to access a directory with spaces we have to take into account the spaces with backslashes
+  ![image](https://user-images.githubusercontent.com/59548630/140997514-bf8e4802-2747-413b-ae94-68f1d57cb65b.png)
