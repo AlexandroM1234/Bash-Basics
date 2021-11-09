@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# To run the script you can do bash hello
+# to run the file directly you can do ./hello but you will get a permission denied
+# To allow permission in the file you need to run chmod that changes file permissions
+# the full command is chmod +x hello and then you can run hello by doing ./hello in zsh
+# you will also need the shebang("#!") at the top of the script to define the file as an executable file and it also confirms where your bash interpreter is
+
+echo "hello-world"
